@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\bin\Debug\radiusForm.exe.config
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\obj\Debug\radiusForm.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\obj\Debug\radiusForm.Form1.resources
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\obj\Debug\radiusForm.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\obj\Debug\radiusForm.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\bin\Debug\radiusForm.exe
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\bin\Debug\radiusForm.pdb
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\obj\Debug\radiusForm.exe
+c:\users\dell\documents\visual studio 2013\Projects\radiusForm\radiusForm\obj\Debug\radiusForm.pdb
